@@ -25,3 +25,8 @@ Each page has its own js file
 Store score and page in local storage
 
 Contains useful information in the console
+
+___
+**Links**
+
+https://cardonadigital.github.io/index.html
