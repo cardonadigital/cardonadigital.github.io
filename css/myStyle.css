@@ -1,0 +1,16 @@
+body{
+    background-color:#3b4c5863;
+    background-image:url(../img/SL_012421_39970_08.jpg) ;
+}
+
+.container {
+    width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
